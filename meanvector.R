@@ -1,6 +1,7 @@
 ## mean vector example in assignement
 #
 
+
 #makeVector creates a special "vector", which is really a list of functions
 makeVector <- function(x = numeric()) {
   m <- NULL

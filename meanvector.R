@@ -34,6 +34,7 @@ cachemean <- function(x, ...) {
     return(m)
   }
   
+  
   #get data if there is no cache
   data <- x$get()
   #calculate mean

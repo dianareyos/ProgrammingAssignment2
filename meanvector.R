@@ -1,4 +1,4 @@
-## mean vector example in assignement
+## caching a mean vector example in assignement
 #
 
 
